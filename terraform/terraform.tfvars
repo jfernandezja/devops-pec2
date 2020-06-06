@@ -1,0 +1,4 @@
+aws_profile = "aws_uoc"
+aws_region = "eu-west-1"
+
+ssh_public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDqkLpO5ojSDTKKSv+f18MIPYhGjxMxG3Cq5hsbhzxSVtraTrNOxTtgE1tueUSz3dEEgoa6LMvlf+zAmH6boZi6k99G7FrwlSZzxrNxP6ge89KZt48IiB7yTS9VshZ0JkxyIsq9JJ0ng8v+8BF4QxwYx2ALph9svYcxSupZqpxtxLok+PK+e58f1iw6BAY6V2Nw4lrSloH8Fu4QLEkFeD9P55agSPrIN5JWPCB5K03d5w3Vc4o85mj+vkZXAnkL/cvsszPzjE8zycjP9B7uLdOg+8OVDFe5FmC18f0OlpIPhPJheqMGQ/rtdXI2T8Gv74YL+ZTI5fw0sbueO+boCbVr jfernandezja@ubuntu"
